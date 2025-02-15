@@ -69,10 +69,10 @@ library(kmlShape)  # <-- Comes after old installation!
 
 
 # import data set from your path 
-omicron <- read_sas('//cdc.gov/project/CCID_NCPDCID_NHSN_SAS/Data/work/_Projects/LTC/COVID-19/Codes/Jason/KML_Shape_Epi_Curve_Omicron/omicron.sas7bdat')
+omicron <- read_sas('XXXX')
 
 # Pulling in covariate data 
-model_data <- read_sas("//cdc.gov/project/CCID_NCPDCID_NHSN_SAS/Data/work/_Projects/LTC/COVID-19/Codes/Jason/KML_Shape_Epi_Curve_Omicron/jason_new.sas7bdat")
+model_data <- read_sas("XXXX")
 
 
 
