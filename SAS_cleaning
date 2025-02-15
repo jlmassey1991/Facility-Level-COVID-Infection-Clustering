@@ -12,10 +12,10 @@ Last edited: 06/12/2023
 Libraries
 */
 
-libname data '\\cdc.gov\project\CCID_NCPDCID_NHSN_SAS\Data\work\_Projects\PAC team analysis project\Mary&Terri&Phil-LTC facilities\Datasets';
+libname data 'xxxx';
 run;
 
-libname jason '\\cdc.gov\project\CCID_NCPDCID_NHSN_SAS\Data\work\_Projects\LTC\COVID-19\Codes\Jason\KML_Shape_Epi_Curve_Omicron';
+libname jason 'XXXX';
 run;
 
 
